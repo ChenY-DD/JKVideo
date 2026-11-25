@@ -4,7 +4,7 @@
 
 # JKVideo
 
-**高颜值第三方 B 站 React Native 客户端**
+**高颜值第三方 B站 React Native 客户端**
 
 *A feature-rich Bilibili-like app with DASH playback, real-time danmaku, WBI signing & live streaming*
 
